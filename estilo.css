@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 .cabecalho{
-    background-image: url('/DISCORD/picsdiscord/Header\ Background.png');
+    background-image: url('Header\ Background.png');
     height: 370px;
     display: flex;
     flex-direction: column;
@@ -63,7 +63,7 @@ h1{
 }
 @media screen and (min-width: 420px ) {
     .cabecalho{
-        background-image: url('/DISCORD/picsdiscord/Header.png');
+        background-image: url('Header.png');
         max-width: 100%;
         display: flex;
         justify-content: center;
