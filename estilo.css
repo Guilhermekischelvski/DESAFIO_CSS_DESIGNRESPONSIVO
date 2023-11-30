@@ -2,7 +2,7 @@ body{
     margin: 0px;
 }
 .cabecalho{
-    background-image: url('/DISCORD/picsdiscord/Header\ Background.png');
+    background-image: url('Header\ Background.png');
     height: 370px;
     display: flex;
     flex-direction: column;
