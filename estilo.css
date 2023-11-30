@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+}
+.cabecalho{
+    background-image: url('/DISCORD/picsdiscord/Header\ Background.png');
+    height: 370px;
+    display: flex;
+    flex-direction: column;
+    padding: 69px 24px;
+    background-repeat: no-repeat;
+}
+button{
+    width: 381px;
+    height: 52px;
+    border-radius: 28px;
+    border: none;
+}
+p{
+    margin: 24px 0px;
+    color: white;
+    font-size: 16px;
+}
+h1{
+    color: white;
+    font-size: 32px;
+    font-family: 'Luckiest Guy', cursive;
+}
+#bot1{
+    background-color: white;
+    color: gray;
+    margin-bottom: 16px;
+}
+#bot2{
+    background-color: #23272A;
+    color: white;
+}
+.detalhes01 img{
+    height: 252px;
+}
+.detalhes01 p{
+    color:#23272A
+}
+.secao{
+    margin: 40px 24px;
+}
+#tec{
+    font-size: 32px;
+    font-family: 'Luckiest Guy', cursive;
+}
+.footer{
+    background-color: #23272A;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
